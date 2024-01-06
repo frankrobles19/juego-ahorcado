@@ -1,5 +1,5 @@
 Juego del Ahorcado en Python
-este programa se basa en pedir letras y reemplazar plazarlas y la letra ingresada es verdadera, si no se agoratan las oportunidades 
+este programa se basa en pedir letras y reemplazar reemplazarlas y la letra ingresada es verdadera, si no se agoratan las oportunidades 
 
 Funcionalidades Principales:
 

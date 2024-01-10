@@ -1,7 +1,7 @@
 import random
 
 def seleccionar_palabra():
-    palabras = ["python", "programacion", "ahorcado", "juego", "informatica", "desarrollo"]
+    palabras = ["comer", "jugar", "ahorcado", "juego", "campus"]
     return random.choice(palabras)
 
 def mostrar_tablero(palabra, letras_adivinadas):
@@ -18,7 +18,7 @@ def jugar_ahorcado():
     letras_adivinadas = []
     intentos = 6
 
-    print("¡Bienvenido al juego del ahorcado!")
+    print("Bienvenido al juego del ahorcado!")
     print(mostrar_tablero(palabra_secreta, letras_adivinadas))
 
     while intentos > 0:
